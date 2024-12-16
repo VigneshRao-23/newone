@@ -1,4 +1,8 @@
 new line added 1st program
+<<<<<<< HEAD
 feature-branch added
 stashing starting
 rebase starting
+=======
+feature-branch added 
+>>>>>>> f23cfc1 (new line added)
