@@ -1,2 +1,4 @@
 new line added 1st program
-feature-branch added 
+feature-branch added
+stashing starting
+rebase starting
